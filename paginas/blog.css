@@ -1,0 +1,27 @@
+body{
+    background-color: #f9f1c3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    align-items: center;
+    margin-top: center;
+ }
+ div{
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ 
+ .nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: 10px 0 10px 30px;
+    color: #fff;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+ }
+ .a​{
+    active{color: pink;};
+ }
+ 
